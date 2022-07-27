@@ -1,0 +1,7 @@
+{
+  "name": "tessting1220",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
